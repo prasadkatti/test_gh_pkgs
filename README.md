@@ -1,2 +1,2 @@
-# test_gh_pkgs
+# test_github_packages
 Testing Github packages
